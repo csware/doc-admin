@@ -18,7 +18,7 @@ individual agent's interface.
 
 <note>
 <para>
-Ein OTRS-Benutzer kann deaktiviert, aber nicht gelöchst werden. Um einn
+Ein OTRS-Benutzer kann deaktiviert, aber nicht gelöchst werden. Um einen
 Benutzer zu deaktivieren, setzen Sie die Einstellung für "Gültig" auf
 "ungültig" oder "ungültig-temporär".
 </para>
